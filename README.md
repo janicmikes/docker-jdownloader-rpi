@@ -3,7 +3,12 @@ Running jdownloader on a RaspberryPi as Download-Box
 
 ## Raspbian
 Probably you want to use the lite version from:
+
 https://www.raspberrypi.org/downloads/raspbian/
+
+The easiest way to flash is by using Etcher
+
+https://www.raspberrypi.org/documentation/installation/installing-images/
 
 ## Docker installation
 
